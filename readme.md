@@ -1,16 +1,17 @@
 We are learning to communicate on a new level of volume.
-and it will be own by you and me and they but also no one.
 
-colocWE is an ambitious project suggesting we are in the opportunity (and urge) to form a new way of communication for very big participants.
+and it will be own by you and me (and they but also no one.)
 
-After the research has done (will form a document about it one day) :
+colocWE is an ambitious project suggesting we can form a new way of communication for large number of participants.
 
-The big 3 problems or need to deal with are:
+After the research has done (will write a document about it one day) :
 
-1. Overload
+The  3 bigest "better deal with" are:
+
+1. Overload - too much comments in too many difrent dabets. "everything has olready been said" (thats not true but for now its fine)
 
 
-2. Echo chamber
+2. Echo chamber - we are soruonded 
 
 
 3. Structure / Present / Visualiz  / Coharent (?) - they all mean the same thing.
