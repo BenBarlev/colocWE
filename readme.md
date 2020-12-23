@@ -7,13 +7,16 @@ After the research has done (will form a document about it one day) :
 
 The big 3 problems or need to deal with are:
 
-Overload
+1. Overload
 
 
-Echo chamber
+2. Echo chamber
 
 
-Structure / Present / Visualiz  / Coharent (?) - they all mean the same thing.
+3. Structure / Present / Visualiz  / Coharent (?) - they all mean the same thing.
+
+
+
 
 The 3 things that can "solve" or at list try to dig something out of it are:
 
