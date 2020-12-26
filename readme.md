@@ -11,7 +11,13 @@ The  3 bigest "better deal with" are:
 1. Overload - too much comments in too many difrent dabets. "everything has olready been said" (thats not true but for now its fine)
 
 
-2. Echo chamber - we are soruonded 
+2. Echo chamber -we are soruonded by bariers that not leting us see the whole picture. in short-
+
+we are exposed to the thought we already agree with
+
+behind this lay the barrier of language
+
+and if you solve that then good luck with "Culture" and "Value"
 
 
 3. Structure / Present / Visualiz  / Coharent (?) - they all mean the same thing.
