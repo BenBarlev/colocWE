@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
-    <head>
-    <title>colocWE</title></head>
+    <head></head>
     <body>
-        <div class="section">
+        <div id="header" class="section">
+            <p> colocWE</p>
+            
+          </div>
 We are learning to communicate on a new level of volume.
 
 and it will be own by you and me (and they but also no one.)
