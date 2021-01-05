@@ -2,6 +2,7 @@
 <html>
     <head>colocWE</head>
     <body>
+        <div class="section">
 We are learning to communicate on a new level of volume.
 
 and it will be own by you and me (and they but also no one.)
@@ -16,6 +17,8 @@ The  3 bigest "better deal with" are:
 
 
 2. Echo-chamber -we are soruonded by bariers that not leting us see the whole picture. in short-
+
+</div>
 
           we are exposed to the thought we already agree with
 
