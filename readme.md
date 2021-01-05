@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
-    <head></head>
-    <title>colocWE</title>
+    <head>
+    <title>colocWE</title></head>
     <body>
         <div class="section">
 We are learning to communicate on a new level of volume.
