@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+<html>
+    <head>colocWE</head>
+    <body>
 We are learning to communicate on a new level of volume.
 
 and it will be own by you and me (and they but also no one.)
@@ -86,3 +90,6 @@ the biggest dream is to achieve agreements out of it.
 and that's, more or less - colocWE.
 
 tell me your opinions - i know you have some
+
+</body>
+</html>
