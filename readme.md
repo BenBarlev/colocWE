@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
-    <head>colocWE</head>
+    <head></head>
+    <title>colocWE</title>
     <body>
         <div class="section">
 We are learning to communicate on a new level of volume.
