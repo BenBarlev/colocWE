@@ -1,4 +1,4 @@
-I wish I know
+*I wish I know*
 
 
 Start by giving your input / ideas / criticism on the colocWE project. everithing goes.
