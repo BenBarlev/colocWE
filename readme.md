@@ -1,10 +1,10 @@
 
-    <head>
+    <head></head>
   
         <div id="header" class="section">
             <p> colocWE</p> <br/>
             </div>
-            </head>
+            
           
 We are learning to communicate on a new level of volume.
 
