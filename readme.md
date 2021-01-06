@@ -3,8 +3,6 @@
           
 We are learning to communicate on a new level of volume.
 
-and it will be own by you and me (and they but also no one.)
-
 
 colocWE is an ambitious project suggesting we can form a new way of communication for a large number of participants.
 
