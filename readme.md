@@ -67,16 +67,29 @@ And I think while most of it should be automated, it still should be done and su
 ## Structure / coherence / visualization - it all means the same thing.
 
 So
-Comments have various roles in a debate 
+Comments have various roles in a debate :
+
                 *Questions*, 
+                
+                
                             !Objections!, 
+                            
+                            
                                          *=An example of an occurrence=,
+                                         
+                                         
 *=!The reasons for an occurrence=! (these guys know better than you. and sometimes (rare) it's not a joke)
+
                                                   ?-!suggestions for solutions?-! (I love this ones)
--- *"no value" - not necessarily the most violent or nasty comments, they just didn't bring any value relevant to the debate - commercials, other topics, out of context etc.--
-and just to make a point - an emoji as a comment can totally bring value to a debate. 
-not necessarily a unique one - but value.😊
-And -
+                                                  
+                                                  
+<del> *"no value" </del>- not necessarily the most violent or nasty comments, they just didn't bring any value relevant to the debate - commercials, other topics, out of context etc.--
+
+(and just to make a point! - an emoji as a comment can totally bring value to a debate. 
+not necessarily a unique one - but value.😊)
+
+
+
 After trimmed and cupeled and P&M we can totally relate and form it into the bush a discussion looks like.
 In Hebrew debate and bush have the same meaning - go figure.
 
