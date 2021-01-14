@@ -10,8 +10,13 @@ I am actually learning in these very moments, for no other reason than this proj
 
 
 Meanwhile, I will thank you if you will help me think this thing together.
-Challenge me with questions about colocWE
-I'm sure there are things I missed.
+
+
+Challenge me with questions about colocWE,  I'm sure there are things I missed.
+
+
 Please bring more opinions and ideas into the project.
+
+
 that would be wonderful.
 
