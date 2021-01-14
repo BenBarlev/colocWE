@@ -8,3 +8,10 @@ if you realise what is the <b>goal</b> - I bet you will have an opinion on how i
 Since my coding capability is limited minus, please be forgiving.
 I am actually learning in these very moments, for no other reason than this project :)
 
+
+Meanwhile, I will thank you if you will help me think this thing together.
+Challenge me with questions about colocWE
+I'm sure there are things I missed.
+Please bring more opinions and ideas into the project.
+that would be wonderful.
+
