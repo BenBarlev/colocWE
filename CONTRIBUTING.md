@@ -20,3 +20,7 @@ Please bring more opinions and ideas into the project.
 
 that would be wonderful.
 
+
+
+If you also can advice me witch tools and languages i should start learning.
+
