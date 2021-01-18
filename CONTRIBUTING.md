@@ -22,5 +22,4 @@ that would be wonderful.
 
 
 
-If you also can advice me witch tools and languages i should start learning.
-
+If you also can advise me of the tools and languages I should start learning.
