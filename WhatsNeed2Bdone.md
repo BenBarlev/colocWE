@@ -22,28 +22,23 @@ Ok go on to the MVP:
 we had our basic GRAB
 
 
-Now we want to represent each 
+Now we want to represent each comment according to its size and to have a "box" that the comment lives in.
+
+each comment is a floating item that the player can drag and drop.
 
 
-
-
-
-each comment according to its size will have a "box" that the comment lives in.
 again in short - 
-auto search for leading topics among the pile - and moving those comments to a bach, you can give it a liable of your on.
+auto search for leading topics among the pile - and moving those comments to a bach.
 
 
 The user should have a set of tools, that with them he is mining in the pile.
 
-"Grouping" - No need to describe. literally the first tool the user need.
+"Grouping" - drag a comment on top of another comment and link them together as comments who are bringing the same value to the game.
+and they'll fold under each other. The user should give it a name, later on, it will be represented in colours and shapes.
 
 
 
-"Trimming" - The ability to reach to a comment that someone else wrote and trim the bases ideas out of it.
-think of it as the functional way to deal with a long massage with many different ideas in them.
-A thing to consider before trimming is to deal with the context - if you trim something in the middle that goes: "she will not tolerate"
-
-we need to know who is "she".
+the last thing is to be able to create a connection between those groups. and give this connection a name.
 
 
-
+I think that with those tools colocWE will be able to start the first test.
