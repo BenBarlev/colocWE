@@ -2,20 +2,33 @@
 and a littel bit of whts going on.
 First, we need a "profile" builder. connected to another social network.
 
+then there is a search on Facebook \Insta \Redit etc for comments over topics that are in the user scope (or by choice).
+
+grab those comments (after verifying its totally legal etc)
+
+without pictures, without even name, it doesn't really matter, just the comment, varchar I guess. CSV.
+
+I understand I'll have to learn Python for that.
 
 
-then there is a search on Facebook insta Youtube etc for comments over topics that are in the user scope.
+I actually thought of trying to learn just how to read what real developers did and focus on learning the configurations.
 
-grab those comments after verifying its totally legal and so
-
-without pictures, without even name, it doesn't really matter.
+Do let me know if it's a stupid idea/
 
 
-and bring them to the first screen the user sees:
 
-a swarm of comments flying around finding common topics to join over the black screen.
-the swarm has settled and you start your journey
+Ok go on to the MVP:
 
+we had our basic GRAB
+
+
+Now we want to represent each 
+
+
+
+
+
+each comment according to its size will have a "box" that the comment lives in.
 again in short - 
 auto search for leading topics among the pile - and moving those comments to a bach, you can give it a liable of your on.
 
