@@ -1,4 +1,15 @@
-*I wish I know*
+It would be great if you could recomend other open source projects that can be usfull for configurations.
+
+I think that if i'll take a basic "comments" add on i would be able to learn aventualy how to make them float.
+html and javascript.
+and to make conections between each other after
+
+so - if you think it shouldnt be a comment thingy and it should be some game that will work with it.
+
+just tell me!
+
+
+
 
 
 Start by giving your input / ideas / criticism on the colocWE project. everithing goes.
