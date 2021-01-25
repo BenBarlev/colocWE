@@ -1,5 +1,5 @@
 
-and a littel bit of whts going on.
+## the basics needs:
 First, we need a "profile" builder. connected to another social network.
 
 then there is a search on Facebook \Insta \Redit etc for comments over topics that are in the user scope (or by choice).
